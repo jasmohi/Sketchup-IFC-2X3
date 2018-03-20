@@ -1,0 +1,11 @@
+// Blacklist Attributes
+{
+  instanceAttributes
+  edo
+  ref
+  href
+  proxy
+  cType
+  itemType
+  arraySize
+}

@@ -1,0 +1,238 @@
+IfcBeam
+{
+  Name
+  Description
+  ObjectType
+  Tag
+}
+
+IfcBuilding
+{
+  Name
+  Description
+  ObjectType
+  ElevationOfRefHeight
+  ElevationOfTerrain
+  LongName
+  CompositionType
+}
+
+IfcBuildingElementProxy
+{
+  Name
+  Description
+  ObjectType
+  Tag
+  CompositionType
+}
+
+IfcBuildingStorey
+{
+  Name
+  Description
+  ObjectType
+  Elevation
+  LongName
+  CompositionType
+}
+
+IfcColumn
+{
+  Name
+  Description
+  ObjectType
+  Tag
+}
+
+IfcCurtainWall
+{
+  Name
+  Description
+  ObjectType
+  Tag
+}
+
+IfcDoor
+{
+  Name
+  Description
+  ObjectType
+  Tag
+  OverallHeight
+  OverallWidth
+}
+
+IfcFooting
+{
+  Name
+  Description
+  ObjectType
+  Tag
+  PredefinedType
+}
+
+IfcMember
+{
+  Name
+  Description
+  ObjectType
+  Tag
+}
+
+IfcPile
+{
+  Name
+  Description
+  ObjectType
+  Tag
+  ConstructionType
+  PredefinedType
+}
+
+IfcPlate
+{
+  Name
+  Description
+  ObjectType
+  Tag
+}
+
+IfcProject
+{
+  Name
+  Description
+  ObjectType
+  LongName
+  Phase
+}
+
+IfcRailing
+{
+  Name
+  Description
+  ObjectType
+  Tag
+  PredefinedType
+}
+
+IfcRamp
+{
+  Name
+  Description
+  ObjectType
+  Tag
+  ShapeType
+}
+
+IfcRampFlight
+{
+  Name
+  Description
+  ObjectType
+  Tag
+}
+
+IfcRoof
+{
+  Name
+  Description
+  ObjectType
+  Tag
+  ShapeType
+}
+
+IfcSite
+{
+  Name
+  Description
+  ObjectType
+  CompositionType
+  LongName
+  LandTitleNumber
+  RefElevation
+  RefLatitude
+  RefLongitude
+}
+
+IfcSlab
+{
+  Name
+  Description
+  ObjectType
+  Tag
+  PredefinedType
+}
+
+IfcSpace
+{
+  Name
+  Description
+  ObjectType
+  CompositionType
+  LongName
+  InteriorOrExteriorSpace
+  ElevationWithFlooring
+}
+
+IfcStair
+{
+  Name
+  Description
+  ObjectType
+  Tag
+  ShapeType
+}
+
+IfcStairFlight
+{
+  Name
+  Description
+  ObjectType
+  Tag
+  NumberOfRiser
+  NumberOfTreads
+  RiserHeight
+  TreadLength
+}
+
+IfcWall
+{
+  Name
+  Description
+  ObjectType
+  Tag
+}
+
+IfcWallStandardCase
+{
+  Name
+  Description
+  ObjectType
+  Tag
+}
+
+IfcWindow
+{
+  Name
+  Description
+  ObjectType
+  Tag
+  OverallHeight
+  OverallWidth
+}
+
+IfcFurnishingElement
+{
+  Name
+  Description
+  ObjectType
+  Tag
+}
+
+// Blacklist Attributes
+{
+  instanceAttributes
+  cType
+  itemType
+  arraySize
+}
